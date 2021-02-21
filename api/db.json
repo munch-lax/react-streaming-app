@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "Title": "xyz",
+      "description": "abcdabcd",
+      "id": 1
+    },
+    {
+      "Title": "second stream",
+      "description": "this is my second stream",
+      "id": 2
+    },
+    {
+      "Title": "third title",
+      "description": "this is my third description",
+      "id": 3
+    },
+    {
+      "Title": "auto push yoooo",
+      "description": "this is going to navigate here yooooo",
+      "userid": "115503329742367426061",
+      "id": 5
+    }
+  ]
+}
